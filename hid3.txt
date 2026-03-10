@@ -1,3 +1,3 @@
-vless://4d958593-6886-4506-80e2-929fec043eb2@195.26.225.206:443?type=tcp&encryption=none&security=reality&pbk=SWjz-Y4u2DkSfUqE4N0I5rF5Wc6sAkn_weFiV3-XUVc&fp=random&sni=max.ru&sid=47b274688fff&spx=%2F&flow=xtls-rprx-vision#🇳🇱 Amsterdam
-vless://06bf09df-3da4-40f1-9d2f-3e8c15c916ae@185.209.30.29:8000?type=tcp&encryption=none&security=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%B1%D0%B5%D0%BB%D1%8B%D1%85%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%BE%D0%B2
-vless://4d958593-6886-4506-80e2-929fec043eb2@185.209.30.29:8001?type=tcp&encryption=none&security=none#%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2-1
+vless://4d958593-6886-4506-80e2-929fec043eb2@185.209.30.29:8001?type=xhttp&encryption=none&path=%2F&host=&mode=auto&security=none#🇷🇺 Обход резерв (xhttp)
+vless://06bf09df-3da4-40f1-9d2f-3e8c15c916ae@185.209.30.29:8000?type=tcp&encryption=none&security=none#🇷🇺 Обход основной (TCP)
+vless://4d958593-6886-4506-80e2-929fec043eb2@195.26.225.206:443?type=tcp&encryption=none&security=reality&pbk=SWjz-Y4u2DkSfUqE4N0I5rF5Wc6sAkn_weFiV3-XUVc&fp=random&sni=max.ru&sid=47b274688fff&spx=%2F&flow=xtls-rprx-vision#🇳🇱 Amsterdam (основной)
