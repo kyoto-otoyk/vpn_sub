@@ -1,4 +1,4 @@
-vless://06bf09df-3da4-40f1-9d2f-3e8c15c916ae@185.209.30.29:8000?type=tcp&encryption=none&security=none#🇷🇺 Обход белых списков
-vless://4d958593-6886-4506-80e2-929fec043eb2@185.209.30.29:8001?type=xhttp&encryption=none&path=%2F&mode=packet-up&security=none#🇷🇺 Обход резервный
-vless://4d958593-6886-4506-80e2-929fec043eb2@195.26.225.206:443?type=tcp&encryption=none&security=reality&pbk=SWjz-Y4u2DkSfUqE4N0I5rF5Wc6sAkn_weFiV3-XUVc&fp=chrome&sni=max.ru&sid=47b274688fff&flow=xtls-rprx-vision#🇳🇱 Amsterdam Reality
-hysteria2://hid3vpn@195.26.225.206:8448/?insecure=1#🇳🇱 Hysteria2
+vless://06bf09df-3da4-40f1-9d2f-3e8c15c916ae@185.209.30.29:8000?type=tcp&encryption=none&security=none#🇷🇺 Обход белых списков 
+vless://4d958593-6886-4506-80e2-929fec043eb2@185.209.30.29:8001?type=xhttp&encryption=none&path=%2F&mode=packet-up&security=none#🇷🇺 Обход резервный (xhttp)
+vless://4d958593-6886-4506-80e2-929fec043eb2@195.26.225.206:443?type=tcp&encryption=none&security=reality&pbk=SWjz-Y4u2DkSfUqE4N0I5rF5Wc6sAkn_weFiV3-XUVc&fp=chrome&sni=max.ru&sid=47b274688fff&flow=xtls-rprx-vision#🇳🇱 Amsterdam 
+hysteria2://hid3vpn@195.26.225.206:8448/?insecure=1#🏴‍☠️ Hysteria2
